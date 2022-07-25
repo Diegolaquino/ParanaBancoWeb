@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParanaBancoWeb", "ParanaBancoWeb\ParanaBancoWeb.csproj", "{346E53DE-11E4-41F0-8617-6643CFA96F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParanaBancoTests", "ParanaBancoTests\ParanaBancoTests.csproj", "{DDB7F52E-EF71-4231-A2CD-57912D5C6BE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{346E53DE-11E4-41F0-8617-6643CFA96F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346E53DE-11E4-41F0-8617-6643CFA96F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346E53DE-11E4-41F0-8617-6643CFA96F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346E53DE-11E4-41F0-8617-6643CFA96F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB7F52E-EF71-4231-A2CD-57912D5C6BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB7F52E-EF71-4231-A2CD-57912D5C6BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB7F52E-EF71-4231-A2CD-57912D5C6BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB7F52E-EF71-4231-A2CD-57912D5C6BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FDBDDC6-08CF-405A-AAC8-97657442D36B}
+	EndGlobalSection
+EndGlobal
